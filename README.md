@@ -12,4 +12,22 @@ The focus is on implementing forward propagation, backpropagation, and parameter
 
 The data used in this project are artificial but it can - and soon will - be implemented with real world datasets.
 
+Here we can see the class distribution of our generated data in a 2D space
+
+<img width="989" alt="image" src="https://github.com/user-attachments/assets/32d084d3-8934-45ec-bc70-2e48e463affe">
+
+and here the loss function minimization with the use of gradient ascent
+
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/d6f6cd17-28ea-4cea-b47b-67937dd76593">
+
+
+Contact:
+
+Konstantinos Tsolakidis
+Machine Learning Engineer
+Hatzakis Lab - University of Copenhagen
+kontsolakidi25@gmail.com
+
+
+
 
