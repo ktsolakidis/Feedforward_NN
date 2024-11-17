@@ -23,7 +23,7 @@ and here the loss function minimization with the use of gradient ascent
 
 Contact:
 
-Konstantinos Tsolakidis__
+Konstantinos Tsolakidis  <br />
 Machine Learning Engineer__
 Hatzakis Lab - University of Copenhagen__
 kontsolakidi25@gmail.com
