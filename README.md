@@ -1,4 +1,4 @@
-# Feedforward_NN
+# Feedforward Neural Network from scratch 
 Neural Network from Scratch: Sigmoid, Softmax, and Backpropagation
 
 # Description
