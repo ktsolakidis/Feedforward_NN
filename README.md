@@ -26,7 +26,7 @@ Contact:
 Konstantinos Tsolakidis  <br />
 Machine Learning Engineer  <br />
 Hatzakis Lab - University of Copenhagen  <br />
-kontsolakidi25@gmail.com
+kontsolakidis25@gmail.com
 
 
 
